@@ -1,3 +1,5 @@
+package chapter7;
+
 public class ArrayPractices {
     public static void main(String[] args) {
         // when naming an array u use plural, [] is the array.
