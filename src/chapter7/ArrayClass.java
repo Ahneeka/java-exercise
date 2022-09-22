@@ -22,4 +22,9 @@ public class ArrayClass {
     }
 }
 // The pseudocode
-//
+//declare a class
+//initialize array addNumbers
+//initialize sum to 0
+//for each of the number
+// add the number to sum
+//display result
