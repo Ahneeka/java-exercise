@@ -20,7 +20,7 @@
 //        assertEquals(false, bike.isOn());
 //    }
 
-    @Test
+   // @Test
   //  public void  accelerateBikeTest();
     //there is a bike
     //the bike is onk

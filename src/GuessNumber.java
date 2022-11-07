@@ -16,7 +16,7 @@ public class GuessNumber{
                else if (  number < magicnumber ){
                System.out.println("too low");
            }
-               else if ( number ==magicnumber ){
+               else {
                System.out.println("enter perfect");
                break;
            }

@@ -1,7 +1,8 @@
-package tdd;
+package chapter2;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+import tdd.ComparingNumbers;
 
 import static org.junit.jupiter.api.Assertions.*;
 

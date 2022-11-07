@@ -1,0 +1,18 @@
+package chapter7;
+
+public class TraditionalSwap {
+    public static void main(String[] args) {
+        int [] firstArr= {5,3,9,0,1};
+
+        int temp =0;
+        for(int i = 0;i < firstArr.length;i++){
+            for(int j = i + 1;i < firstArr.length;j++){
+                if (firstArr[j] < firstArr[i]){
+                    temp = firstArr[j];
+                    firstArr[j] = firstArr[i];
+                    firstArr[i] =temp;
+                }
+            }
+        }
+    }
+}

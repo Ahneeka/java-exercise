@@ -9,7 +9,6 @@ public class HelloDear {
         String lastName = input.next();
         System.out.print("hello dear welcome");
         String hello  = input.next();
-        String y = firstName;
 
     }
 }

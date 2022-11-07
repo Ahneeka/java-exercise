@@ -1,3 +1,5 @@
+package chapter3;
+
 import chapter3.HealthRecords;
 
 import java.util.Scanner;
