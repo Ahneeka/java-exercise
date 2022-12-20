@@ -3,7 +3,7 @@ public class TrianglePrinting {
 
         for (int counter = 1; counter <= 6; counter++) {
             for (int number = 1; number <= counter; number++) {
-                System.out.print(number);
+                System.out.printf("%d ",number);
             }
             System.out.println();
         }
